@@ -15,10 +15,17 @@
  */
 
  h1{
-  padding: 20px 0;
+  padding: 10px 0;
  }
 
- .coach{
+ .box {
   background-color: rgb(252, 221, 182);
-  border-left: gray;
+ }
+
+ .border-gray{
+  border-left: 4px solid gray;
+ }
+
+ .link {
+  text-decoration: none;
  }
